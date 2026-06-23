@@ -1,0 +1,10 @@
+bmi088_222\kalman_filter.o: ..\Hardware\kalman_filter.c
+bmi088_222\kalman_filter.o: ..\Hardware\kalman_filter.h
+bmi088_222\kalman_filter.o: ../DSP/Include/arm_math.h
+bmi088_222\kalman_filter.o: ../Drivers/CMSIS/Include/core_cm4.h
+bmi088_222\kalman_filter.o: E:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+bmi088_222\kalman_filter.o: ../Drivers/CMSIS/Include/cmsis_version.h
+bmi088_222\kalman_filter.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+bmi088_222\kalman_filter.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+bmi088_222\kalman_filter.o: E:\keil5\ARM\ARMCC\Bin\..\include\string.h
+bmi088_222\kalman_filter.o: E:\keil5\ARM\ARMCC\Bin\..\include\math.h
